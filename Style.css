@@ -1,10 +1,16 @@
-body 
+body
 {
- background-image:'https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pexels.com%2Fsearch%2F3d%2F&psig=AOvVaw0OYVWIxQNRaNnyozC1L5Ih&ust=1706530839475000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMjl-v6IgIQDFQAAAAAdAAAAABAE';
+  background-image: url('https://img.freepik.com/free-photo/abstract-digital-grid-black-background_53876-97647.jpg');
 }
 table
 {
+  color: rgb(34, 177, 187);
   border: 1px solid gray;  
+  
+}
+a
+{
+  color: rgb(250, 221, 171);
 }
 
 
